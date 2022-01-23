@@ -1,0 +1,16 @@
+>Sequência com as 4 ambiguidades
+AUGCASGCVARUGUAHCGAGU
+>Primeira sequência sem ambiguidades
+AUGCAGGCGAGUGUAACGAGU
+>Segunda sequência sem ambiguidades
+AUGCACGCCAAUGUACCGAUG
+>Terceira sequência sem ambiguidades
+AUGCAGGCAAGUGUAACGAUG
+>Sequência reverse (2º)
+UGAGCAAUGUGAGCGGACGUA
+>Sequência complement (2º)
+TUCGTGCGGTTUCUTGGCTUC
+>Sequência reverse-complement (2º)
+CUTCGGTUCUTTGGCGTGCUT 
+>Produção dos aminoácidos (2º)
+MHANVPM
