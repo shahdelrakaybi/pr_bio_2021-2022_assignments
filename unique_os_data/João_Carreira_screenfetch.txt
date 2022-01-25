@@ -1,0 +1,18 @@
+[0m[1;37m                                    [0m[1;30m rendrickcarreira[0m[1m@[0m[0m[1;30mVirtualBoxRendrick[0m
+[0m[1;37m         eeeeeeeeeeeeeeeee          [0m[1;30m OS:[0m Elementary 6 odin[0m
+[0m[1;37m      eeeeeeeeeeeeeeeeeeeeeee       [0m[1;30m Kernel:[0m x86_64 Linux 5.11.0-41-generic[0m
+[0m[1;37m    eeeee  eeeeeeeeeeee   eeeee     [0m[1;30m Uptime:[0m 37m[0m
+[0m[1;37m  eeee   eeeee       eee     eeee   [0m[1;30m Packages:[0m 1603[0m
+[0m[1;37m eeee   eeee          eee     eeee  [0m[1;30m Shell:[0m bash[0m
+[0m[1;37meee    eee            eee       eee [0m[1;30m Resolution:[0m 1916x2014[0m
+[0m[1;37meee   eee            eee        eee [0m[1;30m DE:[0m GNOME 3.36.0[0m
+[0m[1;37mee    eee           eeee       eeee [0m[1;30m WM:[0m Gala[0m
+[0m[1;37mee    eee         eeeee      eeeeee [0m[1;30m WM Theme:[0m Adwaita[0m
+[0m[1;37mee    eee       eeeee      eeeee ee [0m[1;30m GTK Theme:[0m io.elementary.stylesheet.orange [GTK2/3][0m
+[0m[1;37meee   eeee   eeeeee      eeeee  eee [0m[1;30m Icon Theme:[0m elementary[0m
+[0m[1;37meee    eeeeeeeeee     eeeeee    eee [0m[1;30m Font:[0m Inter 9[0m
+[0m[1;37m eeeeeeeeeeeeeeeeeeeeeeee    eeeee  [0m[1;30m Disk:[0m 8.6G / 57G (16%)[0m
+[0m[1;37m  eeeeeeee eeeeeeeeeeee      eeee   [0m[1;30m CPU:[0m Intel Core i9-9900KF @ 4x 3.6GHz[0m
+[0m[1;37m    eeeee                 eeeee     [0m[1;30m GPU:[0m VMware SVGA II Adapter[0m
+[0m[1;37m      eeeeeee         eeeeeee       [0m[1;30m RAM:[0m 1139MiB / 3928MiB[0m
+[0m[1;37m         eeeeeeeeeeeeeeeee          [0m
