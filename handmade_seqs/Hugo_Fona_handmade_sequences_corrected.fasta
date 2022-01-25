@@ -1,1 +1,24 @@
-Hugo_Fona_handmade_sequences_corrected.fasta
+DNA sequence with ambiguities #1:
+ATGCGAANGMKTAGCVTAVAA
+
+DNA sequence without ambiguities #1:
+ATGCGAATGCTTAGCCTATAA
+
+DNA sequence without ambiguities #2:
+ATGCCAATGCTTTGCCTATAA
+
+DNA sequence without ambiguities #3:
+ATGCGGATGCTTAGCCCATAA
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Reverse of sequence #1:
+AATATCCGATTCGTAAGCGTA
+
+Complement of sequence #1:
+TACGCTTACGAATCGGATATT
+
+Complement of reverse sequence #1:
+TTATAGGCTAAGCATTCGCAT
+
+
+Amino-acid chain of sequence #1:
+MRMLSL*
