@@ -1,17 +1,16 @@
->Write up a 21 base pair sequence that contains 4 ambiguities
+>Ambiguous sequence
 ATGYTGCSCWATVACGGTTAG
->Re-write 1 possible unambiguous sequences based on the previous one
+>Unambiguous_01
 ATGTTGCCCAATGACGGTTAG
->Re-write 2 possible unambiguous sequences based on the previous one
+>Unambiguous_02
 ATGCTGCGCTATCACGGTTAG
->Re-write 3 possible unambiguous sequences based on the previous one
+>Unambiguous_03
 ATGCTGCCCTATAACGGTTAG
->Its reverse
+>The reverse of Unabiguous_01
 GATTGGCAGTAACCCGTTGTA
->Its complement
+>The complement of Unambiguous_01
 TACAACGGGTTACTGCCAATC
->Its reverse-complement
+>The reverse-complement of Unambiguous_01
 CTAACCGTCATTGGGCAACAT 
->The amino-acid chain it produces
-MetLeuProAsnAspGlyStp
-MLPNDG
+>The translation of Unambiguous_01
+MLPNDG*
