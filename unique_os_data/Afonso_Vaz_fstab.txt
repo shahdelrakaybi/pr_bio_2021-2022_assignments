@@ -1,0 +1,1 @@
+/dev/sda1: UUID="e7717347-f03c-4f6f-9afa-f62e41e71c55" BLOCK_SIZE="4096" TYPE="ext4" PARTUUID="6f040ab5-01"
