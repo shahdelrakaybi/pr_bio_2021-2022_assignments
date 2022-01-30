@@ -1,0 +1,16 @@
+>Sequence identifier
+CATGASTCGCAMTACGTADBC
+>Another sequence identifier 1
+CATGACTCGCACTACGTAGCC 
+>Another sequence identifier 2
+CATGAGTCGCAATACGTATGC
+>Another sequence identifier 3
+CATGAGTCGCACTACGTAATC
+>Another sequence identifier (reverse) 3
+CTAATGCATCACGCTGAGTAC
+>Another sequence identifier (complement) 3
+GTACTCAGCGTGATGCATTAG
+>Another sequence identifier (reverse-complement) 3
+GATTACGTAGTGCGACTCATG
+>Another sequence identifier (amino-acid chain) 3
+HESHYVI
