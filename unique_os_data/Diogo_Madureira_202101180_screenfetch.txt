@@ -1,0 +1,15 @@
+¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦     diogomadureira@diogo-virtualbox
+¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦     OS: Manjaro 21.2rc1 Qonos
+¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦     Kernel: x86_64 Linux 5.15.6-2-MANJARO
+¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦     Uptime: 29m
+¦¦¦¦¦¦¦¦            ¦¦¦¦¦¦¦¦     Packages: 1199
+¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦     Shell: zsh 5.8
+¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦     Resolution: No X Server
+¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦     DE: KDE 5.88.0 / Plasma 5.23.4
+¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦     WM: KWin
+¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦     GTK Theme: Breeze [GTK2/3]
+¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦     Icon Theme: breeze
+¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦     Disk: 8,3G / 29G (31%)
+¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦     CPU: Intel Celeron B830 @ 2x 1.796GHz
+¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦  ¦¦¦¦¦¦¦¦     GPU: VMware SVGA II Adapter
+                                 RAM: 885MiB / 1423MiB
