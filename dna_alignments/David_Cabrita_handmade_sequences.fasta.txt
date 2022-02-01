@@ -1,0 +1,18 @@
+>Sequence with 4 ambiguites
+AGGKTTYAAAAMTCGGGTGST
+>Possible unambiguos sequence identifier (1)
+AGGATTTAAACCTCGGGTGGT
+>Another unambiguos sequence identifier (2)
+AGGTTTAAAAAGTCGGGTGCT
+>Another unambiguos sequence identifier (3)
+AGGCTTGAAAAATCGGGTGTT
+>Reverse unambiguos sequence identifier (1)
+TGGTGGGCTCAAAATTTAGGA
+>Complement sequence identifier (1)
+TCCTAAATTTTGAGCCCACCA
+>Reverse-complement sequence identifier (1)
+ACCACCCGAGTTTTAAATCCT
+>Amino-acid chain sequence (1)
+AGGUUUAAAAAGUCGGGUUAA
+
+
