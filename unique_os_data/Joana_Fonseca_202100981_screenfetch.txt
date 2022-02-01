@@ -1,0 +1,17 @@
+                                      joana@joana-VirtualBox
+ MMMMMMMMMMMMMMMMMMMMMMMMMmds+.        OS: Linuxmint 20.2 uma
+ MMm----::-://////////////oymNMd+`     Kernel: x86_64 Linux 5.4.0-74-generic
+ MMd      /++                -sNMd:    Uptime: 8m
+ MMNso/`  dMM    `.::-. .-::.` .hMN:   Packages: 1962
+ ddddMMh  dMM   :hNMNMNhNMNMNh: `NMm   Shell: bash
+     NMm  dMM  .NMN/-+MMM+-/NMN` dMM   Resolution: 800x600
+     NMm  dMM  -MMm  `MMM   dMM. dMM   DE: Cinnamon 5.0.4
+     NMm  dMM  -MMm  `MMM   dMM. dMM   WM: Muffin
+     NMm  dMM  .mmd  `mmm   yMM. dMM   WM Theme: Mint-Y-Dark (Mint-Y)
+     NMm  dMM`  ..`   ...   ydm. dMM   GTK Theme: Mint-Y [GTK2/3]
+     hMM- +MMd/-------...-:sdds  dMM   Icon Theme: Mint-Y
+     -NMm- :hNMNNNmdddddddddy/`  dMM   Font: Ubuntu 10
+      -dMNs-``-::::-------.``    dMM   Disk: 8,4G / 40G (23%)
+       `/dMNmy+/:-------------:/yMMM   CPU: AMD Ryzen 7 5700U with Radeon Graphics @ 1.797GHz
+          ./ydNMMMMMMMMMMMMMMMMMMMMM   GPU: llvmpipe (LLVM 11.0.0, 256 bits)
+             \.MMMMMMMMMMMMMMMMMMM     RAM: 1506MiB / 3936MiB
