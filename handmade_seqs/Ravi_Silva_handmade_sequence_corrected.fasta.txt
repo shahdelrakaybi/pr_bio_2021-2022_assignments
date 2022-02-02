@@ -1,0 +1,16 @@
+>sequence with ambiguities
+ATGBCACWCTTNAAGARCTAA
+>sequence without ambiguities #1
+ATGCCACACTTAAAGACGTAA
+>sequence without ambiguities #2
+ATGCCACACTTCAAGACCTAA
+>sequence without ambiguities #3
+ATGCCACACTTGAAGAGCTAA
+>reverse of sequence #3
+AATCGAGAAGTTCACACCGTA
+>complement of sequence #3
+UACGGUGUGAACUUCUCGAUU
+>reverse-complement of sequence #3
+UUA GCU CUU CAA GUG UGG CAU
+>amino-acid chain produces by sequence #3
+L A L Q V W H
