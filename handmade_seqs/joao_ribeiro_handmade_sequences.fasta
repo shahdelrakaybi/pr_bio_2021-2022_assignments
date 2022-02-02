@@ -1,0 +1,28 @@
+>Sequence with 4 ambiguities
+ATGGCBAKGDGTCGCAMGTGA
+
+>Unambiguous sequence #1
+ATGGCCAGGTGTCGCAAGTGA
+
+>Unambiguous sequence #2
+ATGGCTAGGAGTCGCACGTGA
+
+>Unambiguous sequence #3
+ATGGCCAGGGGTCGCAAGTGA
+
+>Unambiguous sequence #3 reverse
+AGTGAACGCTGGGGACCGGTA
+
+>Unambiguous sequence #3 complement
+TACCGGTCCCCAGCGTTCACT
+
+>Unambiguous sequence #3 reverse-complement
+TCACTTGCGACCCCTGGCCAT
+
+>Unambiguous sequence #3 the amino-acid chain it produces using the 1 letter IUPAC encoding
+MARGRK
+ 
+
+
+
+
