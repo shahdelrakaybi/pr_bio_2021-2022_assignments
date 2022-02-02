@@ -1,0 +1,19 @@
+[digues@rodrigo-virtualbox ~]$ screenfetch
+
+ ██████████████████  ████████     digues@rodrigo-virtualbox
+ ██████████████████  ████████     OS: Manjaro 21.2rc1 Qonos
+ ██████████████████  ████████     Kernel: x86_64 Linux 5.15.6-2-MANJARO
+ ██████████████████  ████████     Uptime: 4m
+ ████████            ████████     Packages: 1066
+ ████████  ████████  ████████     Shell: bash 5.1.12
+ ████████  ████████  ████████     Resolution: 1331x709
+ ████████  ████████  ████████     DE: Xfce4
+ ████████  ████████  ████████     WM: Xfwm4
+ ████████  ████████  ████████     WM Theme: Matcha-sea
+ ████████  ████████  ████████     GTK Theme: Matcha-sea [GTK2]
+ ████████  ████████  ████████     Icon Theme: Papirus-Maia
+ ████████  ████████  ████████     Font: Noto Sans 10
+ ████████  ████████  ████████     Disk: 7,5G / 36G (23%)
+                                  CPU: Intel Core i7-6700 @ 4x 3.408GHz
+                                  GPU: VMware SVGA II Adapter
+                                  RAM: 791MiB / 3924MiB

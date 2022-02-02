@@ -1,0 +1,28 @@
+> Write up a 21 base pair sequence that contains 4 ambiguities:
+ACTGTWAGCCGOCTPACKTAG
+
+>Re-write 3 possible unambiguous sequences:
+>Based on the oreviuos one (1)
+ACT GTA AGC CGC CTG ACT TAG
+
+>Another Sequence (2)
+ACTGTTAGCCGGCTCACATAG
+
+>Another Sequence (3)
+ACTGTCAGCCGTCTAACGTAG
+
+>Pick one of these sequences and write:
+>Its reverse (1):
+GATTCAGTCCGCCGAATGTCA
+
+>Its complement (1):
+TGACATTCGGCGGACTGAATC
+
+>Its reverse-complement (1):
+CTAAGTCAGGCGGCTTACAGT
+
+>The amino-acid chain it produces:
+>Use the 1 letter IUPAC encoding:
+TVSRLTSTOP
+
+

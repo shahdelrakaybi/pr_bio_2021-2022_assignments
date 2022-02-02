@@ -1,0 +1,25 @@
+>21 base pair sequences with 4 ambiguities
+   5`AUGAVUGCDCCBUGGCAVUGA 3`
+
+
+  >Possible sequence 1
+   5`AUGAAUGCACCGUGGCAAUGA 3`
+  >Possible sequence 2
+   5`AUGAGUGCGCCCUGCCAGUGA 3`
+  >Possible sequence 3
+   5`AUGACUGCTCCTUGTCACUGA 3`
+  
+  ---> Chosen base (AUGAAUGCACCGUGGCAAUGA) <---
+
+ >its reverse
+   5`AGUAACGGUGCCACGUAAGUA 3`
+
+ >its complement
+   5`TUCTTUCGTGGCUCCGTTUCT 3`
+
+ >Its reverse-complement
+   5`TCUTTGCCUCGGTGCUTTCUT 3`
+
+ >The amino-acid chain it produces
+   MAAPTGStop
+     
