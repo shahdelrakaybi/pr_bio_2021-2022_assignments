@@ -1,0 +1,17 @@
+           ...................           guilherme@guilherme-VirtualBox
+          :ooooooooooooooooooo/          OS: Zorin OS 16
+         /ooooooooooooooooooooo+         Kernel: x86_64 Linux 5.11.0-41-generic
+        ''''''''''''''''''''''''         Uptime: 9m
+                                         Packages: 1729
+    .++++++++++++++++++/.       :++-     Shell: bash
+   -oooooooooooooooo/-       :+ooooo:    Resolution: 800x600
+  :oooooooooooooo/-       :+ooooooooo:   DE: Xfce
+ .oooooooooooo+-       :+ooooooooooooo-  WM: Xfwm4
+  -oooooooo/-       -+ooooooooooooooo:   WM Theme: ZorinBlue-Light
+   .oooo+-       -+ooooooooooooooooo-    GTK Theme: ZorinBlue-Light [GTK2]
+    .--        .-------------------.     Icon Theme: ZorinBlue-Light
+                                         Font: Inter 10
+        .//////////////////////-         Disk: 7,2G / 20G (39%)
+         :oooooooooooooooooooo/          CPU: AMD Ryzen 5 5500U with Radeon Graphics @ 2,096GHz
+          :oooooooooooooooooo:           GPU: llvmpipe (LLVM 12.0.0, 256 bits)
+           ''''''''''''''''''            RAM: 1538MiB / 3929MiB
