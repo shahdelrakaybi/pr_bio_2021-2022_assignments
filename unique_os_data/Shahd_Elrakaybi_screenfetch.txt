@@ -1,0 +1,18 @@
+
+ ██████████████████  ████████     shahd@shahd-virtualbox
+ ██████████████████  ████████     OS: Manjaro 21.2rc1 Qonos
+ ██████████████████  ████████     Kernel: x86_64 Linux 5.15.6-2-MANJARO
+ ██████████████████  ████████     Uptime: 42m
+ ████████            ████████     Packages: 1122
+ ████████  ████████  ████████     Shell: zsh 5.8
+ ████████  ████████  ████████     Resolution: No X Server
+ ████████  ████████  ████████     DE: GNOME 41.2
+ ████████  ████████  ████████     WM: Mutter
+ ████████  ████████  ████████     WM Theme: Adwaita-maia-compact-dark
+ ████████  ████████  ████████     GTK Theme: Adwaita-maia-compact-dark [GTK2/3]
+ ████████  ████████  ████████     Icon Theme: Papirus-Dark-Maia
+ ████████  ████████  ████████     Font: Noto Sans 11
+ ████████  ████████  ████████     Disk: 7,9G / 11G (79%)
+                                  CPU: Intel Core i5-7500 @ 3.408GHz
+                                  GPU: VMware SVGA II Adapter
+                                  RAM: 1160MiB / 1436MiB
