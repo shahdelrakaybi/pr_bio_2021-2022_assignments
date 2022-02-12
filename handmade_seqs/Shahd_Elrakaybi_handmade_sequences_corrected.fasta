@@ -1,13 +1,17 @@
-1. ATGCCSTTAGMTAGACSTAYG
-2. 
-i) ATGCCGTTAGCTAGACCTATG
-ii) ATGCCCTTAGCTAGACGTACG
-iii) ATGCCGTTAGATAGACGTATG
-3. Sequence (i)
-a)Its Reverse: GTATCCAGATCGATTGCCGTA
-b)Its complement: TACGGCAATCGATCTGGATAC
-c)Its Reverse Complement: CATAGGTCTAGCTAACGGCAT
-d)The amino-acid chain it produces: 
-  - MPLARPM
-  - Met-Pro-Leu-Ala-Arg-Pro-Met
+>Ambiguous sequence
+ATGCCSTTAGMTAGACSTAYG
+>Unambiguous_01
+ATGCCGTTAGCTAGACCTATG
+>Unambiguous_02
+ATGCCCTTAGCTAGACGTACG
+>Unambiguous_03
+ATGCCGTTAGATAGACGTATG
+>The reverse of Unabiguous_01
+GTATCCAGATCGATTGCCGTA
+>The complement of Unabiguous_01
+TACGGCAATCGATCTGGATAC
+>The reverse-complement of Unabiguous_01
+CATAGGTCTAGCTAACGGCAT
+>The translation of Unambiguous_01 
+MPLARPM
 
